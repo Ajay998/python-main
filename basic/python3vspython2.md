@@ -2,8 +2,7 @@ Python 2 and Python 3 have fundamental differences that impact how code is writt
 
 The decision to transition from Python 2 to Python 3 was driven by the need for a more efficient, powerful, and user-friendly language.
 
-Python 2 code can sometimes be incompatible with Python 3, as many features and standard libraries were updated or
-restructured in Python 3.
+Python 2 code can sometimes be incompatible with Python 3, as many features and standard libraries were updated or restructured in Python 3.
 
 1. Print Function: Python 3 made print a function, which promotes consistency since
 all other output functions in Python require parentheses. This minor change greatly
