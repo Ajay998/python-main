@@ -7,6 +7,7 @@ Whether you're a beginner or revisiting Python after a break, feel free to explo
 ---
 
 📚 Table of Contents
+
 Python Basics
 
 Data Structures
